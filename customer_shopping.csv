@@ -1,0 +1,206 @@
+invoice_no,customer_id,gender,age,category,quantity,price,payment_method,invoice_date,shopping_mall
+INV1000,CUST147,Male,46,Accessories,4,113,Debit Card,2022-01-01,Cevahir
+INV1001,CUST786,Female,53,Electronics,1,185,Debit Card,,Mall@Istanbul
+INV1002,CUST951,Male,63,Electronics,1,46,Cash,2022-01-03,Mall of Istanbul
+INV1003,CUST647,,66,Shoes,1,190,Cash,2022-01-04,Kanyon
+INV1004,CUST881,Male,46,Electronics,4,427,visa,2022-01-05,Kanyon
+INV1005,CUST444,Female,18,Shoes,1,402,Debit Card,2022-01-06,MetroCity
+INV1006,CUST247,Male,44,Shoes,3,227,Credit Card,2022-01-07,Cevahir
+INV1007,CUST185,Male,51,Shoes,4,126,Visa,2022-01-08,MetroCity
+INV1008,CUST850,Male,37,Shoes,3,137,Cash,2022-01-09,MetroCity
+INV1009,CUST155,Female,53,Shoes,1,167,Cash,2022-10-01,MetroCity
+INV1010,CUST342,Male,59,Clothing,2,219,Debit Card,2022-01-11,MetroCity
+INV1011,CUST181,Male,29,Electronics,1,225,Cash,2022-01-12,MetroCity
+INV1012,CUST305,Male,57,Shoes,3,239,Credit Card,2022-01-13,
+INV1013,CUST777,Male,43,Accessories,3,335,Debit Card,2022-01-14,MetroCity
+INV1014,CUST153,Female,50,Electronics,4,150,Cash,2022-01-15,
+INV1015,CUST329,Male,27,Electronics,2,243,Debit Card,2022-01-16,
+INV1016,CUST388,Female,46,Shoes,4,80,Cash,2022-01-17,Mall of Istanbul
+INV1017,CUST570,Female,21,Clothing,3,13,Cash,2022-01-18,Kanyon
+INV1018,CUST600,Female,65,Shoes,1,78,Cash,2022-01-19,Kanyon  
+INV1019,CUST858,Male,36,Clothing,0,446,Credit Card,2022-01-20,Kanyon
+INV1020,CUST714,Female,42,Accessories,1,496,Credit Card,2022-01-21,MetroCity
+INV1021,CUST486,Male,16,Electronics,1,405,Debit Card,,MetroCity
+INV1022,CUST958,Female,56,Accessories,2,257,cash,,
+INV1023,CUST651,Female,59,Clothing,4,-99,Cash,2022-01-24,Cevahir
+INV1024,CUST481,Female,67,Clothing,1,11,Credit Card,2022-01-25,Mall of Istanbul
+INV1025,CUST740,Female,20,Accessories,3,178,Cash,2022-01-26,MetroCity
+INV1026,CUST861,Female,42,Clothing,1,145,Credit Card,2022-01-27,Mall of Istanbul  
+INV1027,CUST891,Female,42,Accessories,2,172,Cash,2022-01-28,Cevahir
+INV1028,CUST706,Female,58,Electronics,2,174,Debit Card,2022-01-29,Kanyon
+INV1029,CUST306,Female,58,Accessories,2,397,Cash,2022-01-30,
+INV1030,CUST912,Male,34,Electronics,4,438,cash,2022-01-31,Mall of Istanbul
+INV1031,CUST596,Male,44,Accessories,0,287,Visa,2022-02-01,Mall of Istanbul
+INV1032,CUST530,Female,25,Clothing,4,126,Credit Card,,MetroCity
+INV1033,CUST755,Female,69,Accessories,4,198,Cash,2022-02-03,Kanyon
+INV1034,CUST797,Female,42,Clothing,2,9,Cash,2022-02-04,Kanyon
+INV1035,CUST118,Male,39,Accessories,2,33,Visa,2022-02-05,Kanyon
+INV1036,CUST631,Female,53,Accessories,4,99999,Visa,2022-02-06,Cevahir
+INV1037,CUST595,Male,47,Shoes,1,426,Credit Card,2022-02-07,Mall of Istanbul
+INV1038,CUST850,Male,15,Clothing,3,343,Visa,2022-02-08,Mall of Istanbul
+INV1039,CUST328,Male,41,Shoes,4,140,Debit Card,2022-02-09,Mall of Istanbul
+INV1040,CUST859,Male,66,Clothing,1,369,Visa,2022-02-10,Cevahir
+INV1041,CUST594,Male,27,Shoes,2,325,Debit Card,2022-02-11,Mall of Istanbul
+INV1042,CUST775,Female,55,Electronics,2,346,Credit Card,2022-02-12,Cevahir
+INV1043,CUST151,Female,17,Accessories,1,149,Credit Card,2022-02-13,Kanyon
+INV1044,CUST749,Female,53,Clothing,3,331,Credit Card,2022-02-14,MetroCity
+INV1045,CUST883,Female,20,Clothing,2,-99,Credit Card,2022-02-15,Mall of Istanbul
+INV1046,CUST148,Female,22,Accessories,2,305,Credit Card,2022-02-16,Mall of Istanbul
+INV1047,CUST744,,41,Clothing,2,136,Debit Card,2022-02-17,
+INV1048,CUST623,Female,23,Clothing,1,296,debit card,2022-02-18,MetroCity
+INV1049,CUST139,,51,Shoes,4,74,Credit Card,2022-02-19,Cevahir
+INV1050,CUST857,Male,47,Clothing,2,256,Visa,2022-02-20,MetroCity
+INV1051,CUST350,Female,65,Electronics,4,419,cash,2022-02-21,Kanyon  
+INV1052,CUST546,Male,56,Electronics,3,279,Credit Card,2022-02-22,Kanyon
+INV1053,CUST805,Female,58,Accessories,2,449,visa,2022-02-23,MetroCity
+INV1054,CUST682,Male,38,Clothing,0,368,Cash,2022-02-24,Cevahir
+INV1055,CUST602,Female,29,Accessories,3,186,credit card,2022-02-25,Cevahir
+INV1056,CUST347,Female,68,Electronics,2,171,Credit Card,2022-02-26,Mall of Istanbul
+INV1057,CUST940,Male,46,Clothing,4,95,Debit Card,2022-02-27,Cevahir
+INV1058,CUST160,Male,46,Clothing,1,206,Cash,2022-02-28,MetroCity
+INV1059,CUST406,Male,38,Accessories,4,350,Cash,2022-03-01,Kanyon
+INV1060,CUST491,Male,55,Electronics,1,23,Visa,2022-03-02,Mall of Istanbul
+INV1061,CUST254,Male,66,Clothing,1,43,debit card,2022-03-03,Mall of Istanbul
+INV1062,CUST708,Male,63,Accessories,4,130,Debit Card,2022-03-04,Kanyon
+INV1063,CUST703,Male,63,Electronics,4,455,Debit Card,2022-03-05,Cevahir
+INV1064,CUST527,Male,66,Accessories,4,177,Debit Card,2022-03-06,Kanyon
+INV1065,CUST486,Female,26,Shoes,4,145,Cash,2022-03-07,Cevahir
+INV1066,CUST764,Female,53,Clothing,3,246,Cash,2022-03-08,Kanyon
+INV1067,CUST438,Male,16,Shoes,2,224,Credit Card,2022-03-09,MetroCity
+INV1068,CUST846,Female,17,Electronics,1,130,Credit Card,,Cevahir
+INV1069,CUST632,,63,Shoes,4,62,Debit Card,2022-03-11,MetroCity
+INV1070,CUST912,Female,51,Shoes,4,152,Debit Card,2022-03-12,Mall of Istanbul
+INV1071,CUST313,Female,63,Electronics,4,480,Debit Card,2022-03-13,Kanyon
+INV1072,CUST950,Male,31,Accessories,3,460,Credit Card,2022-03-14,Mall of Istanbul
+INV1073,CUST422,Female,63,Shoes,4,321,Visa,2022-03-15,Mall of Istanbul
+INV1074,CUST155,Male,16,Accessories,4,387,Visa,2022-03-16,Mall of Istanbul
+INV1075,CUST958,Female,16,Shoes,4,365,Credit Card,,Mall of Istanbul
+INV1076,CUST425,Female,42,Accessories,2,427,Credit Card,2022-03-18,Kanyon
+INV1077,CUST723,Female,68,Electronics,3,5,Credit Card,2022-03-19,Mall of Istanbul
+INV1078,CUST731,Male,37,Shoes,4,391,Credit Card,2022-03-20,Kanyon
+INV1079,CUST353,Female,51,Electronics,1,465,Credit Card,,Kanyon
+INV1080,CUST183,Male,46,Shoes,1,352,Credit Card,2022-03-22,MetroCity
+INV1081,CUST912,Female,47,Electronics,1,194,Debit Card,2022-03-23,Cevahir
+INV1082,CUST586,Male,15,Electronics,3,195,Debit Card,2022-03-24,Cevahir
+INV1083,CUST479,Female,33,Shoes,3,373,Debit Card,2022-03-25,Kanyon
+INV1084,CUST819,Male,16,Shoes,1,413,debit card,2022-03-26,MetroCity
+INV1085,CUST296,Male,67,Shoes,4,316,Credit Card,2022-03-27,Kanyon
+INV1086,CUST407,Female,58,Clothing,3,421,Visa,,Kanyon
+INV1087,CUST333,Male,40,Accessories,1,426,Cash,2022-03-29,Kanyon
+INV1088,CUST760,Female,46,Clothing,1,121,Credit Card,2022-03-30,Mall@Istanbul
+INV1089,CUST174,Female,20,Clothing,4,138,Cash,2022-03-31,Cevahir
+INV1090,CUST602,Female,46,Electronics,2,62,Visa,2022-04-01,MetroCity
+INV1091,CUST492,Female,69,Shoes,3,48,Debit Card,2022-04-02,Mall@Istanbul
+INV1092,CUST220,Female,18,Accessories,4,177,Visa,2022-04-03,MetroCity
+INV1093,CUST269,Female,69,Electronics,1,164,Credit Card,2022-04-04,MetroCity
+INV1094,CUST932,Female,25,Clothing,1,177,Debit Card,2022-04-05,MetroCity
+INV1095,CUST127,Female,31,Shoes,4,321,Credit Card,2022-04-06,MetroCity
+INV1096,CUST950,Female,52,Electronics,3,307,Debit Card,2022-04-07,Cevahir
+INV1097,CUST215,Female,38,Shoes,2,153,Cash,2022-04-08,Mall of Istanbul
+INV1098,CUST746,,19,Electronics,2,84,Cash,2022-04-09,Cevahir
+INV1099,CUST142,Male,66,Shoes,1,378,Cash,2022-04-10,Cevahir
+INV1100,CUST285,Male,48,Clothing,3,217,Visa,2022-11-04,MetroCity
+INV1101,CUST921,Female,20,Accessories,2,207,Credit Card,2022-04-12,Kanyon
+INV1102,CUST356,Female,36,Clothing,3,256,Visa,2022-04-13,Kanyon
+INV1103,CUST863,Female,25,Accessories,3,233,Cash,2022-04-14,Cevahir
+INV1104,CUST555,Female,62,Shoes,1,168,Credit Card,2022-04-15,Cevahir
+INV1105,CUST591,Female,30,Electronics,2,231,Cash,2022-04-16,MetroCity
+INV1106,CUST114,Female,47,Clothing,4,151,Visa,2022-04-17,Cevahir
+INV1107,CUST764,Female,23,Accessories,1,24,Visa,2022-04-18,MetroCity
+INV1108,CUST381,Female,20,Clothing,2,445,Visa,2022-04-19,Kanyon
+INV1109,CUST435,Male,30,Accessories,2,406,Cash,2022-04-20,Kanyon  
+INV1110,CUST908,Female,43,Clothing,2,51,Credit Card,2022-04-21,Mall of Istanbul
+INV1111,CUST922,Male,17,Accessories,0,237,Credit Card,2022-04-22,Kanyon
+INV1112,CUST232,,34,Accessories,2,309,Cash,2022-04-23,Cevahir
+INV1113,CUST598,Female,50,Shoes,3,18,Credit Card,2022-04-24,Kanyon
+INV1114,CUST429,Male,33,Accessories,1,147,Cash,2022-04-25,MetroCity
+INV1115,CUST388,Female,40,Shoes,3,419,Credit Card,2022-04-26,Kanyon
+INV1116,CUST664,Male,17,Accessories,4,5,Debit Card,2022-04-27,Mall of Istanbul
+INV1117,CUST492,Female,33,Electronics,2,377,Debit Card,2022-04-28,Kanyon
+INV1118,CUST477,Female,34,Electronics,1,58,Visa,2022-04-29,MetroCity
+INV1119,CUST252,Male,46,Electronics,2,378,Debit Card,2022-04-30,MetroCity
+INV1120,CUST996,Female,21,Accessories,1,263,debit card,2022-05-01,Cevahir
+INV1121,CUST951,Male,66,Shoes,3,99999,debit card,2022-05-02,Kanyon
+INV1122,CUST863,Female,55,Shoes,1,475,cash,2022-05-03,MetroCity
+INV1123,CUST961,Male,47,Accessories,4,445,Debit Card,2022-05-04,Mall of Istanbul
+INV1124,CUST435,Male,54,Electronics,4,463,Debit Card,2022-05-05,Cevahir
+INV1125,CUST285,Female,53,Electronics,1,16,Visa,2022-05-06,Mall of Istanbul
+INV1126,CUST286,Female,32,Shoes,1,334,debit card,2022-05-07,
+INV1127,CUST330,Male,54,Electronics,1,228,Debit Card,2022-05-08,Kanyon  
+INV1128,CUST861,Female,15,Clothing,1,-99,Credit Card,2022-05-09,Kanyon
+INV1129,CUST964,Female,25,Shoes,4,460,Visa,2022-05-10,Cevahir
+INV1130,CUST496,Female,42,Electronics,2,362,Visa,2022-05-11,Mall@Istanbul
+INV1131,CUST309,Male,39,Shoes,1,-99,Visa,2022-05-12,Cevahir
+INV1132,CUST665,Male,64,Clothing,1,412,Visa,2022-05-13,Mall of Istanbul
+INV1133,CUST998,Male,37,Shoes,4,160,Visa,2022-05-14,Cevahir
+INV1134,CUST571,Male,45,Shoes,4,377,Visa,2022-05-15,Mall of Istanbul
+INV1135,CUST458,Male,44,Shoes,3,12,Cash,2022-05-16,Cevahir
+INV1136,CUST913,Male,56,Shoes,1,126,Debit Card,2022-05-17,MetroCity
+INV1137,CUST300,Male,49,Clothing,3,352,Visa,2022-05-18,Mall of Istanbul
+INV1138,CUST828,Male,21,Accessories,4,168,Debit Card,2022-05-19,Kanyon
+INV1139,CUST815,Male,30,Shoes,4,94,Debit Card,2022-05-20,Kanyon
+INV1140,CUST147,Female,40,Shoes,2,140,Cash,2022-05-21,Cevahir
+INV1141,CUST459,Male,62,Electronics,1,190,Visa,2022-05-22,Kanyon
+INV1142,CUST474,Female,66,Shoes,3,320,Credit Card,2022-05-23,Mall of Istanbul
+INV1143,CUST107,Female,63,Electronics,4,182,cash,2022-05-24,Kanyon
+INV1144,CUST488,Female,16,Accessories,4,32,Credit Card,2022-05-25,MetroCity
+INV1145,CUST748,Male,15,Clothing,3,224,debit card,2022-05-26,MetroCity
+INV1146,CUST481,,62,Clothing,2,361,debit card,2022-05-27,Cevahir
+INV1147,CUST322,Male,26,Accessories,4,45,Cash,2022-05-28,Mall of Istanbul
+INV1148,CUST215,,19,Clothing,1,232,Cash,,MetroCity
+INV1149,CUST796,Female,51,Accessories,4,196,Credit Card,2022-05-30,
+INV1150,CUST660,Male,46,Accessories,1,415,Visa,2022-05-31,Mall of Istanbul
+INV1151,CUST650,Male,69,Accessories,3,451,Credit Card,2022-06-01,Kanyon
+INV1152,CUST760,Male,23,Clothing,1,149,Cash,2022-06-02,Kanyon
+INV1153,CUST815,Male,55,Electronics,3,205,Credit Card,2022-06-03,Cevahir
+INV1154,CUST186,Male,49,Accessories,1,421,Cash,2022-06-04,Kanyon
+INV1155,CUST200,Female,33,Shoes,3,216,Credit Card,2022-06-05,Mall of Istanbul
+INV1156,CUST992,Male,62,Clothing,1,465,Cash,2022-06-06,MetroCity
+INV1157,CUST923,Female,30,Accessories,2,224,Cash,2022-06-07,Kanyon
+INV1158,CUST866,Male,17,Accessories,1,244,Cash,2022-06-08,Cevahir
+INV1159,CUST187,Female,34,Shoes,1,417,Visa,2022-06-09,Kanyon
+INV1160,CUST807,Male,38,Electronics,2,401,Credit Card,2022-06-10,Mall of Istanbul
+INV1161,CUST736,Male,68,Electronics,4,50,Credit Card,2022-06-11,Cevahir
+INV1162,CUST220,Female,47,Electronics,4,39,Credit Card,2022-06-12,
+INV1163,CUST780,,38,Accessories,1,257,Cash,,Cevahir
+INV1164,CUST575,Female,66,Accessories,2,394,Credit Card,2022-06-14,Mall of Istanbul  
+INV1165,CUST152,Male,25,Accessories,1,86,credit card,2022-06-15,MetroCity
+INV1166,CUST436,Female,63,Clothing,3,375,Cash,2022-06-16,Mall of Istanbul
+INV1167,CUST135,Male,22,Shoes,3,260,Debit Card,2022-06-17,Mall of Istanbul  
+INV1168,CUST257,Male,50,Accessories,1,201,Cash,2022-06-18,Mall of Istanbul
+INV1169,CUST187,Female,52,Shoes,4,307,Credit Card,2022-06-19,Mall of Istanbul
+INV1170,CUST985,Female,54,Shoes,4,413,Cash,2022-06-20,MetroCity
+INV1171,CUST441,Male,34,Electronics,1,454,Debit Card,2022-06-21,MetroCity
+INV1172,CUST753,Male,49,Clothing,1,14,Cash,2022-06-22,Cevahir
+INV1173,CUST507,Female,62,Accessories,3,316,Credit Card,2022-06-23,Kanyon
+INV1174,CUST805,Female,39,Electronics,4,290,Debit Card,2022-06-24,MetroCity
+INV1175,CUST919,Female,49,Electronics,1,246,Visa,2022-06-25,MetroCity  
+INV1176,CUST383,Male,39,Accessories,3,255,Credit Card,2022-06-26,Kanyon
+INV1177,CUST954,Male,43,Shoes,4,369,Debit Card,2022-06-27,MetroCity
+INV1178,CUST345,Male,32,Electronics,2,9,Debit Card,2022-06-28,Mall of Istanbul
+INV1179,CUST463,Male,60,Shoes,3,123,Visa,2022-06-29,Mall of Istanbul
+INV1180,CUST106,Male,32,Clothing,4,293,Cash,2022-06-30,Kanyon
+INV1181,CUST634,Male,16,Shoes,4,378,Cash,2022-07-01,Cevahir
+INV1182,CUST834,Female,68,Clothing,3,69,Credit Card,2022-07-02,
+INV1183,CUST912,Male,49,Shoes,2,150,visa,2022-07-03,Kanyon
+INV1184,CUST783,Male,30,Electronics,3,228,Cash,2022-07-04,Kanyon
+INV1185,CUST848,Male,55,Electronics,4,243,Visa,2022-07-05,Mall of Istanbul
+INV1186,CUST482,Female,50,Clothing,1,181,Cash,2022-07-06,Cevahir  
+INV1187,CUST955,Male,47,Accessories,1,271,debit card,2022-07-07,MetroCity
+INV1188,CUST955,Male,18,Clothing,3,345,Cash,2022-07-08,Mall of Istanbul
+INV1189,CUST176,Female,47,Clothing,4,286,Visa,2022-07-09,Kanyon
+INV1190,CUST317,Male,28,Shoes,1,67,Debit Card,2022-07-10,Cevahir
+INV1191,CUST392,Male,35,Shoes,4,221,Debit Card,2022-07-11,MetroCity
+INV1192,CUST865,Male,62,Clothing,3,346,Debit Card,2022-07-12,MetroCity
+INV1193,CUST556,Male,34,Electronics,1,319,visa,2022-07-13,Mall of Istanbul
+INV1194,CUST571,Male,22,Shoes,4,287,Credit Card,2022-07-14,Cevahir
+INV1195,CUST851,Female,21,Accessories,1,181,Credit Card,2022-07-15,Cevahir
+INV1196,CUST178,Female,17,Shoes,3,465,Credit Card,2022-07-16,Kanyon
+INV1197,CUST475,,31,Shoes,4,421,Visa,2022-07-17,Cevahir
+INV1198,CUST495,Male,47,Accessories,1,102,Debit Card,2022-07-18,Cevahir
+INV1199,CUST807,Male,62,Clothing,3,109,Credit Card,2022-07-19,Mall of Istanbul
+INV1058,CUST160,Male,46,Clothing,1,206,Cash,2022-02-28,MetroCity
+INV1040,CUST859,Male,66,Clothing,1,369,Visa,2022-02-10,Cevahir
+INV1034,CUST797,Female,42,Clothing,2,9,Cash,2022-02-04,Kanyon
+INV1102,CUST356,Female,36,Clothing,3,256,Visa,2022-04-13,Kanyon
+INV1184,CUST783,Male,30,Electronics,3,228,Cash,2022-07-04,Kanyon
